@@ -1,7 +1,7 @@
 site_name: Plant Spatial Multiomics Analysis
-site_url: https://YAOJ-bioin.github.io/Plant_spatial_multiomics_analyis/
-repo_url: https://github.com/YAOJ-bioin/Plant_spatial_multiomics_analyis
-repo_name: YAOJ-bioin/Plant_spatial_multiomics_analyis
+site_url: https://yaoj-bioin.github.io/plant-spatial-multiomics-analysis/
+repo_url: https://github.com/YAOJ-bioin/plant-spatial-multiomics-analysis
+repo_name: YAOJ-bioin/plant-spatial-multiomics-analysis
 theme:
   name: material
   features:
